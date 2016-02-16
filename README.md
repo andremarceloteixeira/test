@@ -1,5 +1,5 @@
 #Task:
-Refactor the LanguageBatchBo!
+Refactor the LanguageBatchBo!  --> CALL :http://localhost/homework/src/generate_language_files.php
 The goals are:
 * increase the inner quality of the code and
 * (optional) increase test coverage with unit tests
